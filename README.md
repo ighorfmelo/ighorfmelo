@@ -1,7 +1,7 @@
 ## Hi, I'm Ighor! 👋
-
-
-
+<div>
+  <img height="200" src="https://raw.githubusercontent.com/ighorfmelo/ighorfmelo/main/AvatarMaker.svg" /> 
+</div>
 - 🔭 I’m currently working as a <strong>Front-end Developer</strong>
 - 🌱 I’m currently learning VueJs and Ruby
 - 💬 Contact me on <a src="https://www.linkedin.com/in/ighormelo/">Linkedin </a>
