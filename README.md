@@ -2,8 +2,8 @@
 <div>
   <img height="200" src="https://raw.githubusercontent.com/ighorfmelo/ighorfmelo/main/AvatarMaker.svg" /> 
 </div>
-- 🔭 I’m currently working as a <strong>Front-end Developer</strong>
-- 🌱 I’m currently learning VueJs and Ruby
+- 🔭 I’m currently working as a <strong>Tech Lead</strong>
+- 🌱 I’m currently learning Back-end Java spring
 - 💬 Contact me on <a src="https://www.linkedin.com/in/ighormelo/">Linkedin </a>
 
 **Languages and Tools:**  
